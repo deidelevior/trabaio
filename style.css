@@ -1,0 +1,18 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #222;
+}
+
+.carousel img {
+    height: 300px;
+    object-fit: cover;
+}
+
+.card img {
+    height: 180px;
+    object-fit: cover;
+}
